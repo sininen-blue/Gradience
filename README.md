@@ -17,10 +17,8 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Install and apply [adw-gtk3](https://github.com/lassekongo83/adw-gtk3)
+
 
 ## 🙋 FAQ (optional)
 
