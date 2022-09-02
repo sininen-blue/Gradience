@@ -18,12 +18,15 @@
 ## Usage
 
 1. Install and apply [adw-gtk3](https://github.com/lassekongo83/adw-gtk3)
+2. Clone this repository locally
+3. Open the presets tab <p align="left"><img src="https://github.com/sininen-blue/Gradience/blob/main/assets/palette.png"/></p>
+4. Import the json file of your choice
 
 
 ## 🙋 FAQ (optional)
 
--	Q: **_"Where can I find the doc?"_**
-	A: Run `:help theme`
+-	Q: **_"Why is the palette just default gnome?"_**
+	A: I was lazy and I don't exactly know what to do with it
 
 ## 💝 Thanks to
 
