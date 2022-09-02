@@ -21,6 +21,7 @@
 2. Clone this repository locally
 3. Open the presets tab <p align="left"><img src="https://github.com/sininen-blue/Gradience/blob/main/assets/palette.png"/></p>
 4. Import the json file of your choice
+5. Click apply theme, make sure to check the adwaita 3 box
 
 
 ## 🙋 FAQ (optional)
